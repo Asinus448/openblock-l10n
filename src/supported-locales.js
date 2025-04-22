@@ -65,7 +65,7 @@ const locales = {
     // 'sv': {name: 'Svenska'},
     // 'vi': {name: 'Tiếng Việt'},
     // 'tr': {name: 'Türkçe'},
-    // 'uk': {name: 'Українська'},
+    'uk': {name: 'Українська'},
     'zh-cn': {name: '简体中文'},
     'zh-tw': {name: '繁體中文'}
 };
